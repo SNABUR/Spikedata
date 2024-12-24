@@ -1,0 +1,25 @@
+{
+  "name": "SUPRA SPIKE",
+  "description": "The First NFT on supra oracles blockchain",
+  "image": "ipfs://QmTRqANb5Vy2vvAm4sFM2VgGGAdLMx2NqfLaSgtGrXFsmt",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "1"
+    },
+    {
+      "trait_type": "Royalty",
+      "value": "1%"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Digital Art"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Spike"
+    }
+  ],
+  "external_url": "https://www.supraspike.fun",
+  "token_id": "1"
+}
