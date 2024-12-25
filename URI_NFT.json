@@ -1,25 +1,31 @@
 {
-  "name": "SUPRA SPIKE",
-  "description": "The First NFT on supra oracles blockchain",
-  "image": "ipfs://QmTRqANb5Vy2vvAm4sFM2VgGGAdLMx2NqfLaSgtGrXFsmt",
-  "attributes": [
+  "name":"Miller #1",
+  "description":"Remember to replace this description",
+  "image":"ipfs://QmTaPMLv7Cei15tRbFwBLgfvu97qLNadERNdD6U4i4nsp1",
+  "dna":"a0b53eec27d9e1e60459531ab1db357ee7e35796",
+  "edition":1,
+  "date":1666643822075,
+  "attributes":
+  [
     {
-      "trait_type": "Rarity",
-      "value": "1"
+      "trait_type":"backgrounds","value":"invasion"
     },
     {
-      "trait_type": "Royalty",
-      "value": "1%"
+      "trait_type":"skin","value":"cacti"
     },
     {
-      "trait_type": "Category",
-      "value": "Digital Art"
+      "trait_type":"eyes","value":"droopy"
     },
     {
-      "trait_type": "Creator",
-      "value": "Spike"
+      "trait_type":"clothing","value":"classic mail armor"
+    },
+    {
+      "trait_type":"headgear","value":"axe grinder"
+    },
+    {
+      "trait_type":"weapons","value":"18"
     }
   ],
-  "external_url": "https://www.supraspike.fun",
-  "token_id": "1"
+  
+  "compiler":"HashLips Art Engine"
 }
