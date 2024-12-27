@@ -1,6 +1,28 @@
 {
-  "name": "SPIKE Collection",
-  "description": "The first Collection on Supra",
-  "uri": "QmTRqANb5Vy2vvAm4sFM2VgGGAdLMx2NqfLaSgtGrXFsmt",
-  "creator": "0x1a2142d9232c1fcae433e864ee7dbd90246b85682fbbcd2a4f0b2a0ddaae76a0"
+  "name": "Genesis Spike Collection",
+  "description": "🦔✨ Meet Spike, the coolest hedgehog on the block(chain)! Spike isn’t just any hedgehog—he’s the *first-ever NFT hedgehog* on Supra, and he’s here to party in the metaverse. This spiky little legend zooms through Supra like it’s his personal playground, spreading charm, energy, and a little chaos along the way. 🌌🚀 As the Genesis Spike Collection, these NFTs mark the dawn of something big (and maybe just a little spiky). So, join Spike as he takes Supra by storm. Warning: Holding Spike NFTs may result in uncontrollable laughter and sudden bursts of enthusiasm. Let’s get prickly! 🌟🦔"  
+  "image": "https://example.com/collection-image.png",
+  "external_url": "https://supraspike.fun",
+  "attributes": [
+    {
+      "trait_type": "Theme",
+      "value": "Digital Art"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Supra"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Supra Spike Team"
+    },
+    {
+      "trait_type": "Genesis Status",
+      "value": "First NFT on Supra"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Spike"
+    }
+  ]
 }
