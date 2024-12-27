@@ -8,22 +8,28 @@
   "attributes":
   [
     {
-      "trait_type":"backgrounds","value":"invasion"
+      "trait_type":"backgrounds",
+      "value":"invasion"
     },
     {
-      "trait_type":"skin","value":"cacti"
+      "trait_type":"skin",
+      "value":"cacti"
     },
     {
-      "trait_type":"eyes","value":"droopy"
+      "trait_type":"eyes",
+      "value":"droopy"
     },
     {
-      "trait_type":"clothing","value":"classic mail armor"
+      "trait_type":"clothing",
+      "value":"classic mail armor"
     },
     {
-      "trait_type":"headgear","value":"axe grinder"
+      "trait_type":"headgear",
+      "value":"axe grinder"
     },
     {
-      "trait_type":"weapons","value":"18"
+      "trait_type":"weapons",
+      "value":"18"
     }
   ],
   
